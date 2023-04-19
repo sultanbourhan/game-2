@@ -160,6 +160,12 @@ body{
     font-weight: bold;
 }
 
+@media (max-width: 767px){
+    .continer .x-o .x-or-o{
+        font-size: 120px;
+    }
+}
+
 .continer .x-o .stop{
     pointer-events: none;
 }
